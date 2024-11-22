@@ -1,0 +1,4 @@
+Compressed Tags: 
+<65> <66> <128> <129> 
+Decompressed String: 
+ABABBA
